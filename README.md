@@ -2,4 +2,10 @@
 
 # About Me
 
-I am a passionate developer dedicated to improving my skills and tackling challenges in the tech industry. With experience in JavaScript, Flutter, MySQL, and C#, I aim to deliver solutions tailored to company needs. Open to interviews and technical tests, I am eager to contribute and grow in a collaborative environment.
+I am a developer passionate about creating innovative solutions and constantly learning new technologies.
+
+## Technologies I Work With
+- **Languages**: JavaScript, C#
+- **Frameworks**: Flutter, ASP.NET Core, Vue.js
+- **Databases**: MySQL, SQL Server
+- **Tools**: Node.js, Git, Firebase
